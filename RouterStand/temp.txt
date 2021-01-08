@@ -1,5 +1,0 @@
-Designed Part: A mounted wall stand to give our home router a place to sit. 
-
-Background: Our family recently changed ISP's and the person who intially installed all the gear velcroed the router to the DVR instead of giving it it's own dedicated bracket due to space constraints. Eventually the glue and velcro wore off and left the router hanging only by the ethernet cable (poor guy). We tried to re-glue and re-velcro several times to no avail. This print is an alternative solution to velcro.
-
-Router stand v1: 12/31/21
