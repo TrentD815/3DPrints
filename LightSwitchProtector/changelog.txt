@@ -1,0 +1,7 @@
+Design: A shield to cover part of a light switch to prevent it from getting wet.
+
+Background: My girlfriend's apartment has the bathroom lightswitch dangerously close 
+to where the shower water can spray. So for peace of mind for both of us, I made this 
+shield. This makes it so the light switch doesn't get wet to prevent potential hazards.
+
+Light switch protector v1: 12/31/20 - inital design
