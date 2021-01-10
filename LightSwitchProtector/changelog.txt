@@ -4,4 +4,8 @@ Background: My girlfriend's apartment has the bathroom lightswitch dangerously c
 to where the shower water can spray. So for peace of mind for both of us, I made this 
 shield. This makes it so the light switch doesn't get wet to prevent potential hazards.
 
-Light switch protector v1: 12/31/20 - inital design
+v1: 12/31/20 - inital design
+v2: 1/9/21 - My friend pointed out to me that there's really no place to attach the 
+             part to the wall and he's right. So I went back and added an extra piece
+             that has a bigger surface area so it can eventually be glued to the wall
+             more securely.
