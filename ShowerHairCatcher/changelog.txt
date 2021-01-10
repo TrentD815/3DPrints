@@ -1,0 +1,9 @@
+Design: A shower hair catcher that sits in the shower drain
+
+Background: My girlfriend doesn't want her shower to get clogged with
+any of her long hairs so this is an attempt to mitigate that and make
+loose hair collection easier.
+
+Shower hair catcher initial version: 1/3/21
+
+
