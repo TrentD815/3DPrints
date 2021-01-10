@@ -4,4 +4,10 @@ Background: Our home shower is very minimilast and as a result has very little p
 So our loofas can only hang on the handle that also turns on the water. When the water is turned on, 
 the loofas always slide off onto the ground. This print is designed to prevent them from falling off.
 
-Loofa holder v1: 12/30/20 - initial design
+v1: 12/30/20 - initial design
+v2: 1/10/21 - There were two issues with the original design. The first was that the hole I cut was
+              not big enough and as a result the print would not even fit onto the shower handle. 
+              The second was I accidentally put the actual "holder/stopper" protrusion on the wrong
+              side because I forgot the piece rotates 90 degrees when in use. I was designing the piece
+              without taking that into account. This version increases the size of the hole and switches
+              the side that that stops the loofas.
