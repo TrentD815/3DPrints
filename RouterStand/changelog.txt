@@ -6,4 +6,9 @@ bracket due to space constraints. Eventually the glue and velcro wore off and le
 the router hanging only by the ethernet cable (poor guy). We tried to re-glue and 
 re-velcro several times to no avail. This print is an alternative solution to velcro.
 
-Router stand v1: 12/26/20 - initial design
+v1: 12/26/20 - initial design
+v2: 1/10/21 - The initial design did not self support as much as I thought it would 
+              by just having a snug fit. As a result, it could not hold itself or 
+              any weight for that matter. So I'm adding a through hole so the piece 
+              can be properly mounted to the metal bracket on the wall. I plan to 
+              use 2 screws with washers and nuts to mount it firmly to the wall.
