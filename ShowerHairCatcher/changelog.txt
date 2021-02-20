@@ -4,6 +4,11 @@ Background: My girlfriend doesn't want her shower to get clogged with
 any of her long hairs so this is an attempt to mitigate that and make
 loose hair collection easier.
 
-Shower hair catcher initial version: 1/3/21
+v1: 1/3/21 - initial design
+
+Side note: This was my first print using supports within Cura and it was defintely a learning experience. 
+           The default support settings in Cura were stronger than I thought. I had a very hard time 
+           removing all support material in the middle of the print. As a result the top edge of the 
+           print is slightly damaged from where I had to continously pick at to get all the support material out.
 
 
