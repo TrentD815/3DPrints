@@ -11,3 +11,13 @@ v2: 1/10/21 - There were two issues with the original design. The first was that
               side because I forgot the piece rotates 90 degrees when in use. I was designing the piece
               without taking that into account. This version increases the size of the hole and switches
               the side that that stops the loofas.
+v3: 1/11/21 - v2 was almost good enough to work. This time it overlayed perfectly on top of the handle
+              but because it was such a small piece, it couldn't securely stay on and would slowly slide 
+              off. I didn't want to have to use glue or anything so I extended the base down by about half 
+              an inch. This made the cavity bigger and allowed it to sit perfectly on the handle and stop
+              the loofas from falling.
+       
+Side note: For some reason exporting this piece from Solidworks to Cura messed it up and I don't know how to 
+           fix it currently. Random chunks of the piece were missing after trying to print the v3 3 different times.
+           This can be seen pretty clearly in the final print pictures. It works still but looks a little ugly 
+           and I don't feel like trying to figure out what is wrong with it right now
