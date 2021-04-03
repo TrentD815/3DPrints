@@ -1,0 +1,9 @@
+Design: A piece around the iphone charging block that allows the cable to be organized neatly
+
+Background: The kitchen island is the main area where our family sits. As a result, there is
+            almost always a phone charger in the outlet on the side of island for anyone to use.
+            Though sometimes the cord hanging down can be a bit unsightful and even a tripping hazard.
+            This print is an attempt to organize the cable and cleanly move it out of the way.
+
+v1: 4/2/21 - inital design
+v2:
