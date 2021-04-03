@@ -1,0 +1,11 @@
+Design: A piece around our shower grab bar that allows for a fuller extra surface
+
+Background: Our shower is a very minimalist design and a result there are not many
+            places to put things like shampoo and soap. Often there are items that
+            sit on top of the grab bar in the shower which makes them easy targets
+            for being knocked over. This print is an attempt to provide more flat
+            surface space to put things in the shower
+
+v1: 4/3/21 - inital design
+v2:
+
