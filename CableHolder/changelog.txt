@@ -9,4 +9,5 @@ v1: 4/2/21 - inital design
 v2: 4/4/21 - The initial design went better than I expected for a first try. The piece fit perfectly
              around the charging block and the cable fit relatively well into the clasps. The clasps
              aren't perfect though and I'm afraid the cable could fall out. So I decided to make the 
-             clasps slightly taller and longer so the cable can fit even better
+             clasps slightly taller and longer so the cable can fit even better. I also filleted the
+             edges of the clasps to stengthen them.
