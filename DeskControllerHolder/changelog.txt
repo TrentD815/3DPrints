@@ -1,0 +1,13 @@
+Design: A Playstation controller holder that can be mounted underneath
+        your desk for convenience and to reduce desk clutter
+        
+Background: The idea for this came when I was talking to my friend about how I've been 3D
+            printing things recentlly and he said he was about to buy something 3D printed online.
+            I asked what is was and he showed me the controller mount from some site. I said it 
+            seemed simple/feasible enough and offered to make it for him instead as a challenge 
+            for me and to my friend a little money. He took me up on the offer so I got to work.
+
+Version History:
+Pre V1: I started off by creating a partial version of the design just have a prototype to test
+        the spacing and how well it actually holds the controller. A bigger print with the 
+        incorrect sizes would just be a waste of material and time
