@@ -10,4 +10,8 @@ Background: The idea for this came when I was talking to my friend about how I'v
 Version History:
 Pre V1: I started off by creating a partial version of the design just have a prototype to test
         the spacing and how well it actually holds the controller. A bigger print with the 
-        incorrect sizes would just be a waste of material and time
+        incorrect sizes would just be a waste of material and time.
+Pre V2: The initial prototype wasn't too bad. The controller analog sticks were able to sit in
+        slots as designed but it was pretty tight and hard to easily pull it in and out. So I 
+        made the part that the sticks sit on a little thinner to hopefully remedy this. I also 
+        rounded a lot of edges to make it look a bit sleeker.
