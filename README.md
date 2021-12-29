@@ -12,6 +12,7 @@ Each folder contains:
 - Picture of the print in use if applicable
 
 ## Gallery
+<img height="300" src="/DeskControllerHolder/3in1.jpg"/>
 <img height="300" src="/CableHolder/CableHolder3in1.jpg"/>
 <img height="300" src="/LightSwitchProtector/LightSwitchProtector3in1.jpg"/>
 <img height=300" src="LoofaHolder/LoofaHolder3in1.jpg"/>
